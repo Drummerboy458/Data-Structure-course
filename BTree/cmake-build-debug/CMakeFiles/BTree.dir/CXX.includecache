@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lww/CLionProjects/BTree/BTree.h
+cstdlib
+-
+iostream
+-
+queue
+-
+
+/Users/lww/CLionProjects/BTree/main.cpp
+iostream
+-
+cstring
+-
+limits
+-
+BTree.h
+/Users/lww/CLionProjects/BTree/BTree.h
+

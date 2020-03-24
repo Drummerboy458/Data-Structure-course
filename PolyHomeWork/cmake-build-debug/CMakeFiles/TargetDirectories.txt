@@ -1,0 +1,3 @@
+/Users/lww/CLionProjects/PolyHomeWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lww/CLionProjects/PolyHomeWork/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lww/CLionProjects/PolyHomeWork/cmake-build-debug/CMakeFiles/PolyHomeWork.dir

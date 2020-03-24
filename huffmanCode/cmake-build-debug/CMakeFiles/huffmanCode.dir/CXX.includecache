@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lww/CLionProjects/huffmanCode/HuffNode.h
+iostream
+-
+
+/Users/lww/CLionProjects/huffmanCode/HuffTree.h
+HuffNode.h
+/Users/lww/CLionProjects/huffmanCode/HuffNode.h
+iostream
+-
+
+/Users/lww/CLionProjects/huffmanCode/function.h
+iostream
+-
+iomanip
+-
+vector
+-
+map
+-
+HuffTree.h
+/Users/lww/CLionProjects/huffmanCode/HuffTree.h
+fstream
+-
+
+/Users/lww/CLionProjects/huffmanCode/main.cpp
+iostream
+-
+function.h
+/Users/lww/CLionProjects/huffmanCode/function.h
+
